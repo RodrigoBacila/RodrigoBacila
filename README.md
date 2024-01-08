@@ -1,17 +1,21 @@
-Hello! 👋
+Hello.
 
-My name is Rodrigo and I currenty work as a software engineer, mainly with **C# in .NET**. I also have experience with other technologies, such as React, JavaScript, HTML5, CSS3, SQL and so on...
+My name is Rodrigo and I currently work as a backend software engineer, working mainly with C# in .NET Core, SQL with Dapper, SCRUM with Jira and microservices architecture.
 
----
+I also have experience with technologies such as React (JavaScript / TypeScript), NextJS, HTML, Tailwind CSS, among others that are no longer used in more modern frameworks, especially when we talk about SPAs.
 
-I previously studied and graduated in Chemistry, which gave me the mindset of a scientist 👨‍🔬
+--- About me ---
 
-With it, I usually make data-driven decisions and look at things with more attention to detail than usual 🔎
+In the past, I studied and graduated in chemistry, which gave me the mindset of a scientist. Therefore, I usually make decisions based on data and I tend to observe everything with greater attention to detail.
 
-My main motivation has always been to do something new, to innovate, to adventure responsibly and enjoy each day and/or task. 
+However, I also had a lot of experience in areas that deal with the public, in customer service positions. As a result, I developed a lot of tact and empathy.
 
-We are all searching for our dream job, and I believe that starts with the people around us. We have to feel that we belong, join the cause, raise the same banner 🤝 
+My main motivation has always been to do something new, venture responsibly and enjoy each day and/or task, if possible. Good mood is a constant in my day and I will do my best to - organically, without forcing - transfer this good energy to everyone around me, potentially boosting the morale of my teammates and indirectly increasing the efficiency of their respective work.
 
-One can always learn new technical knowledge, with so many online courses available nowadays. However, in my opinion, nothing is stronger than the feeling of belonging. Therefore, having a cultural fit is already a huge step!
+We are all looking for our dream job, and I believe it starts with the people around us. We have to feel like we belong, join the cause, raise the same flag. Never underestimate the value of a well-placed laugh in a professional environment. This brings people together, and companies are people.
 
-I grew up in a home that always promoted the idea of doing things with excellence, so I adopted this and other values directly into my professional life.
+Anyone can learn and absorb more technical knowledge, with so many online courses available today. But, in my opinion, nothing is stronger than the feeling of belonging!
+
+And finally, I'm the guy who doesn't think twice before giving credit where credit is due — if someone did something cool, they deserve praise or, at the very least, recognition for it.
+
+We all work with technology, but we are not made of technology. Appreciate the people!
